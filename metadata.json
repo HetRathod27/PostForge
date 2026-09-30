@@ -1,0 +1,6 @@
+{
+  "name": "PostForge",
+  "description": "AI Content Studio: Transform raw event notes and photos into platform-native posts for LinkedIn, Instagram, X, Reddit, and WhatsApp with Honesty Guard and Voice DNA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
